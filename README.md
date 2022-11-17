@@ -2,5 +2,5 @@
 
 Ola! Bem vindo ao meu livro de receitas :wave:
 
- - Strogonoff de frango.
- - Bolo de cenoura.
+ - Strogonoff de frango
+ - Bolo de cenoura
